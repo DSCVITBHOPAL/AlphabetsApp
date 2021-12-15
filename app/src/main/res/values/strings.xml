@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AlphabetsApp</string>
+    <string name="affirmation1">A</string>
+    <string name="affirmation2">B</string>
+    <string name="affirmation3">C</string>
+    <string name="affirmation4">D</string>
+    <string name="affirmation5">E</string>
+    <string name="affirmation6">F</string>
+    <string name="affirmation7">G</string>
+    <string name="affirmation8">H</string>
+    <string name="affirmation9">I</string>
+    <string name="affirmation10">J</string>
+</resources>
